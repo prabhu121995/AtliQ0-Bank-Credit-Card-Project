@@ -1,35 +1,14 @@
 # AtliQ0 Bank Credit Card Analysis Project
 
-Welcome to the **AtliQ0 Bank Credit Card Project** repository! This project focuses on analyzing credit card usage data through statistical methods such as **Measures of Central Tendency**, the **Central Limit Theorem**, and **Hypothesis Testing**. The goal is to derive actionable insights related to customer spending patterns, credit utilization, and default prediction to help businesses make data-driven decisions.
+Welcome to the **AtliQ0 Bank Credit Card Project** repository! This project focuses on analyzing customer data to identify the optimal age groups for releasing a new credit card offering. Using statistical techniques such as **Measures of Central Tendency**, **Hypothesis Testing (Z-Test)**, and **Confidence Levels**, we derive actionable insights to guide business decisions for new product launches.
 
 ## 📌 **Project Highlights**
-- **Data Analysis Techniques**: Measures of Central Tendency, Central Limit Theorem, Hypothesis Testing.
-- **Insights**: Customer spending behavior, credit card defaults, and risk factors.
-- **Tools Used**: Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebooks.
-- **Business Impact**: Improve credit card offerings, marketing strategies, and decision-making.
+- **Objective**: Analyze age group data to determine which segment is best suited for the release of a new credit card product.
+- **Methods**: **Hypothesis Testing (Z-Test)**, **Measures of Central Tendency**, **Confidence Level Calculation**.
+- **Data Insights**: Identifying key age groups, understanding spending patterns, and validating assumptions for targeted marketing.
+- **Tools Used**: Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebooks.
+- **Business Impact**: Data-driven decision-making for product development and customer segmentation.
 
-## 📊 **Objective**
-The objective of this project is to analyze data from **AtliQ0 Bank**'s credit card customers and provide insights that can guide marketing, customer segmentation, and risk management strategies.
+## 📊 **Project Objective**
+The primary goal of this project is to analyze the credit card usage and behavior of different **age groups** to determine which demographic is most suitable for the launch of a new credit card. The analysis includes hypothesis testing using a **Z-test** to validate assumptions regarding spending behavior across different age groups.
 
-## 🔧 **Technologies Used**
-- **Python** (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-- **Jupyter Notebooks** for interactive analysis
-- **GitHub** for project management and version control
-
----
-
-## 📂 **Repository Structure**
-- **/notebooks**: Jupyter Notebooks containing detailed analysis and results.
-- **/data**: Dataset used for analysis (make sure to replace this with the actual dataset if necessary).
-- **/scripts**: Python scripts for data preprocessing, analysis, and hypothesis testing.
-- **requirements.txt**: Python dependencies required for the project.
-
----
-### Key Features of this Header:
-- **Project Overview**: A concise introduction to the project.
-- **Highlights**: Key features or methods used in the project.
-- **Technologies**: List of technologies used in the project.
-- **Repository Structure**: Breakdown of the repository’s contents for easy navigation.
-- **Steps to Run**: Clear instructions to run the project.
-- **Key Learnings**: A section summarizing the key takeaways from the project.
-- **Contact Info**: To encourage engagement and collaboration.
